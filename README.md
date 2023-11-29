@@ -10,7 +10,7 @@ To get started just plug your Hull Pixelbot into a serial port on your machine. 
 Enter your program into the editing window at the top and press *Send* to send it to the robot. Press *Run* to run it and *Stop* to stop it. There are some sample programs you can load by clicking *Sample*. The *Clear* button clears the program in the robot's storage and the *View* button lets you see the compiled low-level code in the output window.
 
 When you have finished just remove unplug the robot. 
-You can find a description of the Python-ish language [here]()
+You can find a description of the Python-ish language [here](https://github.com/HullPixelbot/Documentation)
 ##  Errors
 If the robot doesn't like one of your Python-ish statements you will see an error number with a line number on it in the output window. There are error descriptions in the langauge document.
 
