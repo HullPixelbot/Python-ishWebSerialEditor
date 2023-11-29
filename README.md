@@ -1,4 +1,4 @@
-# |Pixel-ish Web SerialEditor
+# Python-ish Web SerialEditor
 ![image of the editor in use](images/editor.png)
 
 A web based editor that lets you edit and deploy Python-ish programs via a serial connection to your robot.
@@ -13,6 +13,7 @@ When you have finished just remove unplug the robot.
 You can find a description of the Python-ish language [here](https://github.com/HullPixelbot/Documentation)
 ##  Errors
 If the robot doesn't like one of your Python-ish statements you will see an error number with a line number on it in the output window. There are error descriptions in the langauge document.
+
 
 Have Fun
 
